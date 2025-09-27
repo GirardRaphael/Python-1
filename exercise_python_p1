@@ -1,0 +1,388 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyNu8HoEcl3aLwgwjDqi8yyw",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/GirardRaphael/Python-1/blob/main/exercise_python_p1\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "zcj3O7uLYwgg"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "\n"
+      ],
+      "metadata": {
+        "id": "msNztuz7ZWaP"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print (\"bonjour\")\n",
+        "\n"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 0
+        },
+        "id": "5REC5D9IZltn",
+        "outputId": "b0ebede3-a883-4dde-c3f4-c0beb07e395c"
+      },
+      "execution_count": 10,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "bonjour\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "#question 2"
+      ],
+      "metadata": {
+        "id": "d5QTRc6UZtHv"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "nom=(\"raphael\")\n",
+        "print(nom)"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 0
+        },
+        "id": "DF7vC7G1bahv",
+        "outputId": "5de0668f-3788-4304-95f1-423dd9999305"
+      },
+      "execution_count": 18,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "raphael\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "#question 3"
+      ],
+      "metadata": {
+        "id": "l2mEu9FXbgkH"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(\"bonjour\")\n",
+        "print(\"python\")"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 0
+        },
+        "id": "8oGy0bHdbjkn",
+        "outputId": "45e7d5df-723d-4755-f9cf-0db2f6d2baf7"
+      },
+      "execution_count": 20,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "bonjour\n",
+            "python\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "#question 4"
+      ],
+      "metadata": {
+        "id": "zf-MZCB_b5XX"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(2+3)"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 0
+        },
+        "id": "0CoF68RZb7V_",
+        "outputId": "2bc49900-a8e0-4087-c00f-b088dee46365"
+      },
+      "execution_count": 23,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "5\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "#QUESTION 5"
+      ],
+      "metadata": {
+        "id": "4TYavW0lcRcn"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(\"2+3=\",2+3)"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 0
+        },
+        "id": "MgQX3Y7qcXGG",
+        "outputId": "1486be26-826f-4443-ffb0-4e586a1ff114"
+      },
+      "execution_count": 25,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "2+3= 5\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "#question 6"
+      ],
+      "metadata": {
+        "id": "ACL4Fmm_cuhf"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "x=(\"7\")\n",
+        "print(x)\n",
+        "\n"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 0
+        },
+        "id": "AsjQ4TUdcwcn",
+        "outputId": "706f2602-2e3c-41c5-9f21-81fdec6a45c4"
+      },
+      "execution_count": 26,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "7\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "#question 7"
+      ],
+      "metadata": {
+        "id": "UARq5hzSdBFf"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "nom=\"raphael\"\n",
+        "print(nom)"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 0
+        },
+        "id": "Usdq21QcdD_-",
+        "outputId": "e450ff76-a74a-4e89-82cc-2feed433e12e"
+      },
+      "execution_count": 27,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "raphael\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "#question 8"
+      ],
+      "metadata": {
+        "id": "rMOTGxqYdag-"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [],
+      "metadata": {
+        "id": "YvwxUwyEg0qe"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "a=(4)\n",
+        "b=(6)\n",
+        "print(a+b)"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 0
+        },
+        "id": "mpqqGc0adet_",
+        "outputId": "5d93aea2-ab34-40ce-92a1-ef07f3ed39c5"
+      },
+      "execution_count": 35,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "10\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "#question 9"
+      ],
+      "metadata": {
+        "id": "dcMd2WsHeqsH"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "nom=input(\"entrez votre nom\")\n",
+        "print(\"bonjour\",nom)"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 0
+        },
+        "id": "YNV0ar5ues5m",
+        "outputId": "9cbba750-2688-489b-8839-87e148b6bb27"
+      },
+      "execution_count": 39,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "entrez votre nomraphael\n",
+            "bonjour raphael\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "#question 10"
+      ],
+      "metadata": {
+        "id": "_4yaWjnBfEnX"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "a=int(input(3));b=int(input(5));print(a+b)."
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 106
+        },
+        "id": "OmuGIaI-fHIo",
+        "outputId": "3e6714e2-ca30-4482-b43b-0972b3067a27"
+      },
+      "execution_count": 42,
+      "outputs": [
+        {
+          "output_type": "error",
+          "ename": "SyntaxError",
+          "evalue": "invalid syntax (ipython-input-2096681421.py, line 1)",
+          "traceback": [
+            "\u001b[0;36m  File \u001b[0;32m\"/tmp/ipython-input-2096681421.py\"\u001b[0;36m, line \u001b[0;32m1\u001b[0m\n\u001b[0;31m    a=int(input(3));b=int(input(5));print(a+b).\u001b[0m\n\u001b[0m                                               ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid syntax\n"
+          ]
+        }
+      ]
+    }
+  ]
+}
